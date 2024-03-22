@@ -49,6 +49,27 @@
             @endforeach
 
 
+
+          <div class="col-lg-15">
+            <div class="card">
+              <div class="card-header">
+              <div class="col-sm-12">
+                  </div>
+                <h1 class="task_title  m-0" style="font-size:35px; "></h1>
+                
+              </div>
+              <div class="card-body">
+                <h2 class="card-title" style="font-size:27px"></h2>
+                <p class="card-text">
+                </p>
+
+                </button>  
+              </div>
+            </div>
+
+
+
+
 <!-------------------------------------------- End of Timeline content ------------------------------------------------->
 
 
